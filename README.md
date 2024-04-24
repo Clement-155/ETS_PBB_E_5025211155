@@ -1,7 +1,8 @@
 # christopherclementwijaya_ppbe_ets
 
-A new Flutter project.
-
+Christopher Clement Wijaya
+5025211155
+PBB C
 ## Getting Started
 
 This project is a starting point for a Flutter application.
